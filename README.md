@@ -71,15 +71,6 @@ Not available (confidential project)
 
 ---
 
-
-
-### 🎥 Video Demonstration
-
-Not available (confidential project)
-
----
-
-
 ### **📣 Hashtags Section**
 
 \# #Python #ComputerVision #Automation #SoftwareTesting #QualityAssurance #TestAutomation #Porsche #Pandas #Tableau #ExcelAutomation #CANoe #EsoTraceViewer #Linux #EngineeringConsultant #AutomotiveSoftware #Innovation
