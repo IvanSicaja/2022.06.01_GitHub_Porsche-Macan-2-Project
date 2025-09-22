@@ -1,0 +1,77 @@
+**🧾 🎯 Role title: Engineering Consultant - Porsche Macan 2 project  
+📍 Location:** ALTEN GmbH, Breitwiesenstr. 19, 70565 Stuttgart, Germany  
+📅 Employment Period: Jun 2022 – Jun 2024  
+🎥 YouTube Demo: Not available (confidential project)  
+📦 GitHub: <https://github.com/IvanSicaja/2022.06.01_GitHub_Porsche-Macan-2-Project>  
+\----------------------------------------------------------------------------------------------------------------
+
+**🏷️** My Personal Profiles: ⬇︎  
+🎥 Video Portfolio: To be added  
+📦 GitHub Profile: [https://github.com/IvanSicaja](https://github.com/IvanSicaja?utm_source=chatgpt.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/ivan-si%C4%8Daja-832682222](https://www.linkedin.com/in/ivan-si%C4%8Daja-832682222?utm_source=chatgpt.com)  
+🎥 YouTube: [https://www.youtube.com/@ivan_sicaja](https://www.youtube.com/@ivan_sicaja?utm_source=chatgpt.com)  
+\----------------------------------------------------------------------------------------------------------------
+
+### **📚🔍 Project description:** ⬇︎⬇︎⬇︎
+
+### 💡 **Role Description**
+
+Worked as an **Engineering Consultant** at ALTEN GmbH (Jun 2022 – Jun 2024) for the **Porsche Macan 2 Project**.  
+The role focused on **software testing, automation development, and process optimization** for Porsche’s next-generation SUV project.
+
+Key responsibilities:
+
+- **Design and implement** automated testing solutions for **DID** and **optical checks** using **Python** with **OpenCV** to improve **efficiency** and **accuracy**.
+- **Automate auxiliary tasks**, including **large-scale Excel file editing** and **report generation**, using **Python** with **openpyxl** and **pywin32**.
+- **Research and develop** innovative solutions for various types of new challenges, including **Head-Up Display (HUD) software testing**.
+- **Create and maintain** software test databases based on Porsche requirements to ensure assigned parts of **Porsche Macan II software** are **production-ready**.
+- **Perform testing** of new Porsche Macan II software approximately every two weeks using **simulation testbenches** and **real car drives**.
+- **Assemble testbenches** and ensure they are **prepared** for new **software test releases**.
+- **Identify, report, and track** software issues using tools such as **CANoe** and **EsoTrace Viewer**.
+
+### ⚠️ **Note**
+
+Due to **confidentiality** and **NDA restrictions**, no **source code** or **internal test files** can be published. This project highlights real-world **automotive software testing** and **automation** experience in collaboration with **Porsche**. Proof documents and certificates of participation can be found in my **CV** and in the **GitHub repository**.
+
+### **🔧 Tech Stack**
+
+Python, Computer Vision, Pandas, Tableau, Microsoft Excel Automation, Linux, TortoiseSVN, CANoe, EsoTrace Viewer,OpenCV, openpyxl, pywin32
+
+---
+
+### 📸 Project Snapshot
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2022.06.01_GitHub_Porsche-Macan-2-Project/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true" 
+       alt="Porsche Macan 2 Preview 1" 
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2022.06.01_GitHub_Porsche-Macan-2-Project/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_2.png?raw=true" 
+       alt="Porsche Macan 2 Preview 2" 
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2022.06.01_GitHub_Porsche-Macan-2-Project/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_3.png?raw=true" 
+       alt="Porsche Macan 2 Preview 3" 
+       width="640" 
+       height="360">
+</p>
+
+---
+
+
+### 🎥 Video Demonstration
+
+Not available (confidential project)
+
+---
+
+
+### **📣 Hashtags Section**
+
+\# #Python #ComputerVision #Automation #SoftwareTesting #QualityAssurance #TestAutomation #Porsche #Pandas #Tableau #ExcelAutomation #CANoe #EsoTraceViewer #Linux #EngineeringConsultant #AutomotiveSoftware #Innovation
